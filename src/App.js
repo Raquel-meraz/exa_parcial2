@@ -1,17 +1,17 @@
-import logo from './alumno.png';
 import './App.css';
+import foto from './alumna-yo.jpg';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={foto} className="App-foto" alt="alumna" />
         <p>
-          JUAN PÉREZ SOSA  - EXAMEN PARCIAL 2
+          RAQUEL YOLANDA MERAZ MARRUFO - EXAMEN PARCIAL 2
         </p>
         <a
           className="App-link"
-          href="https:www.utd.edu.mx"
+          href="https://utd.edu.mx/"
           target="_blank"
           rel="noopener noreferrer"
         >
